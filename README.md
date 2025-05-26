@@ -1,6 +1,7 @@
 # Project Responsive Web Design using Bootstrap
 ## Date:10/05/2025
-## Name:JEYAPRIYA.J Reg No:212224100027
+## Name:MOULIDHAR.G 
+## Reg No:212223240042
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
